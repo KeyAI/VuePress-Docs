@@ -1,0 +1,15 @@
+{
+  "name": "keyai-docs",
+  "version": "1.0.0",
+  "description": "keyai's code docs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "keyai",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
